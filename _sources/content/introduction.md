@@ -1,6 +1,8 @@
 # Introduction
+![alternative_imagetext](../static/cerberus_life_support.png)  
+
 *Cerberus* will allow you to analyze combinatorial CRISPR screens.
-![alternative_imagetext](../static/cerberus_life_support.png)
+
 ```{note}
 # Basic requirements:
 - read count table
