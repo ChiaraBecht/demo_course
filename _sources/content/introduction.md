@@ -18,4 +18,5 @@ asymmetric: 2 different gene sets vs. each other
 symmetric multiplexed: same gene sets all by all
 ```
 ## Cerberus aims
+Provide you with suitable easy to use methods to analyze your data
 ## Module overview
