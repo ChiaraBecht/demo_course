@@ -1,5 +1,6 @@
 ![logo](lecture/static/logo.png)
 
+changed something
 
 ## "What's in this repository?"
 
