@@ -1,5 +1,6 @@
 # Introduction
-![alternative_imagetext](../static/cerberus_life_support.png)  
+*Cerberus* is currently still under development. 
+![cerberus_on_life_support](../static/cerberus_life_support.png)  
 
 *Cerberus* will allow you to analyze combinatorial CRISPR screens.
 
